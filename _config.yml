@@ -1,1 +1,21 @@
 remote_theme: poole/lanyon
+# Setup
+title:               bpg0x03
+tagline:             'CTF and musings'
+description:         'Some thoughts'
+url:                 https://www.bpg3.dev
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+
+# About/contact
+author:
+  name:              Byron G
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
