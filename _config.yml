@@ -3,7 +3,7 @@ remote_theme: poole/lanyon
 title:               bpg0x03
 tagline:             'CTF and musings'
 description:         'Some thoughts'
-url:                 https://www.bpg3.dev
+url:                 https://bpg3.dev
 baseurl:             ''
 paginate:            5
 permalink:           pretty
