@@ -52,7 +52,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .fade {
-  max-height: 25em;
+  max-height: 12em;
+  text-overflow: clip;
   -webkit-mask-image: linear-gradient(180deg, #000 60%, transparent);
 }
 /*
